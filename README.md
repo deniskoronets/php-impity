@@ -238,3 +238,13 @@ Integration tests run when curl-impersonate is found (set `IMPITY_CURL_IMPERSONA
 ## License
 
 Apache-2.0
+
+## Our sponsors
+
+<a href="https://mobicard.com.ua/" title="Mobicard"><img src="https://mobicard.com.ua/favicon.svg" width="32" alt="Mobicard"></a>
+<a href="https://busyb.com.ua/" title="BusyB"><img src="https://busyb.com.ua/favicon.svg" width="32" alt="BusyB"></a>
+<a href="https://pc-info.com.ua/" title="PC-Info"><img src="https://pc-info.com.ua/favicon.svg" width="32" alt="PC-Info"></a>
+<a href="https://linktrust.pro/" title="LinkTrust"><img src="https://linktrust.pro/linktrust.svg" width="32" alt="LinkTrust"></a>
+
+## Author
+Created and maintained by **[Denys Koronets](https://deniskoronets.com)** (**[Github](https://github.com/deniskoronets/)**)
